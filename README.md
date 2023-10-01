@@ -9,7 +9,7 @@ My daughter has food anxiety and we have worked studiously with her and her medi
 
 ##### Lunch Lady Land: What Would It Do?
 
-My design concept is one that provides a weekly menu with a number of different options a family could choose from.  Each of the meals would be prepared, packaged, and delivered to either home, work, or school (depending on the cooperation of the school district), so there would be stored user information.  My website would provide a gallery selection page to allow users to choose the menus they prefer, similar to FreshnLean.com Links to an external site.so there would need to be an ecommerce type interaction with a cart and potentially stored favorites.  I would also like to provide a page for users feedback and reviews along with possibly a blog where easy snack/prep ideas were discussed. 
+My design concept is one that provides a weekly menu with a number of different options a family could choose from.  Each of the meals would be prepared, packaged, and delivered to either home, work, or school (depending on the cooperation of the school district), so there would be stored user information.  My website would provide a gallery selection page to allow users to choose the menus they prefer, similar to FreshnLean.com or Factor75.com, so there would need to be an ecommerce type interaction with a cart and potentially stored favorites.  I would also like to provide a page for users feedback and reviews along with possibly a blog where easy snack/prep ideas were discussed. 
 
 ##### Lunch Lady Land: Making things Easy!
 
